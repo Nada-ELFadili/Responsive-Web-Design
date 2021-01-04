@@ -19,7 +19,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#de9b8a;
+  background:#EBA677;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -28,15 +28,15 @@ ul{
 
 .dark{
   padding:15px;
-  background:#414a35;
-  color:#ffffff;
+  background:#f5e6e3;
+  color:black;
   margin-top:10px;
   margin-bottom:10px;
 }
 
 /* Header **/
 header{
-  background:#f5eee5;
+  background:#7F657E;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#c39458;
+  color:#dfbabd;
   font-weight:bold;
 }
 
@@ -101,12 +101,13 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#f5eee5
+  background:#F6E5DB
 }
 
 #newsletter h1{
   float:left;
   color: black;
+  
 }
 
 #newsletter form {
@@ -158,7 +159,7 @@ article#main-col{
 ul#services li{
   list-style: none;
   padding:20px;
-  border: #cccccc solid 1px;
+  border: #dcbbb2 solid 3px;
   margin-bottom:5px;
   background:#e6e6e6;
 }
@@ -167,7 +168,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#c39458;
+  background-color:#EBA677;
   text-align: center;
 }
 
